@@ -1,0 +1,15 @@
+{
+  "name": "ui",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Junn",
+  "license": "MIT",
+  "main": "index.ts",
+  "devDependencies": {
+    "@types/react": "^18.2.20",
+    "eslint-config-product-list": "workspace:^"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}

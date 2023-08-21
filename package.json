@@ -1,0 +1,16 @@
+{
+  "name": "example-product-list",
+  "version": "0.0.1-dev",
+  "description": "Example product list. It will made by monorepo and clean architecture",
+  "author": "Junn",
+  "license": "MIT",
+  "scripts": {
+    "dev": "turbo run dev"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.1",
+    "eslint": "^8.47.0",
+    "prettier": "^3.0.2",
+    "turbo": "^1.10.12"
+  }
+}
